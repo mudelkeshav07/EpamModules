@@ -1,4 +1,4 @@
-package Steps;
+package Task1Steps;
 
 public class Accounts {
     int balance;

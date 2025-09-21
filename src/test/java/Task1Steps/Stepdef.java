@@ -1,4 +1,4 @@
-package Steps;
+package Task1Steps;
 
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
